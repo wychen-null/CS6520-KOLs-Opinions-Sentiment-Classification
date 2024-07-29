@@ -1,2 +1,2 @@
-# project_nlp_cuda
-使用cuda的代码
+# CS6520 Project 
+## MSCS in CityU
