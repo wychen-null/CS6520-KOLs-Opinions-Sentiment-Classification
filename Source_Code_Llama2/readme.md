@@ -26,3 +26,4 @@ Llama2微调部分代码基于 https://github.com/georgian-io/LLM-Finetuning-Too
    nohup ./run_lora.sh > ./log/output.log 2>&1 &
    ```
 2. 尾缀带有output的文件是用来输出可靠性分析的情感分类结果，命令使用参考inference为后缀的文件
+3. ```Llama2-7B-conda-env.yaml```是进行Llama2微调的conda虚拟环境导出配置文件
